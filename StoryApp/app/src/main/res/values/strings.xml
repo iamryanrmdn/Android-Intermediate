@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your account</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="name">Name</string>
+    <string name="signup">Sign Up</string>
+    <string name="message_welcome_page">Let\'s share your experience here</string>
+    <string name="title_welcome_page">Welcome to Story App</string>
+    <string name="logout">Log Out</string>
+    <string name="title_story">Title Story</string>
+    <string name="desc_story">Description</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="description_hint">Add description ...</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="title_upload_story">Upload Story</string>
+    <string name="empty_image_warning">Please insert the image file first</string>
+</resources>
